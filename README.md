@@ -41,4 +41,4 @@ Test folder: 8041 images, avg: 41.0 images per class.
 
 # Evaluate the model on single images (e.g for production)
 * The model successfuly predict the type of vehicle
-![](prediction.png)
+![](graphs/prediction.png)
