@@ -1,7 +1,7 @@
 # Vehicle Type Recognition Based on Deep Learning
 
 
-<a href="https://github.com/joshlingy/Vehicle-Type-Recognition-Based-on-Deep-Learning/blob/master/SF crime data analysis and modeling.ipynb">Highly recommended to click this link to see more detail of what I have done about this project!</a>
+<a href="https://github.com/joshlingy/Vehicle-Type-Recognition-Based-on-Deep-Learning/blob/master/Vehicle_Type_Recognition_Based_on_Deep_Learning.ipynb">Highly recommended to click this link to see more detail of what I have done about this project!</a>
 
 
 ** Please reload it if something went wrong on the page.**
